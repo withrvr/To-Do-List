@@ -1,5 +1,6 @@
 # To Do React App
 
 ```
-add the list of items to do
+Add The List of Items
+To-Do
 ```
