@@ -11,7 +11,7 @@ npm start
 
 ```
 Using gh-pages for deployment
-Use only if changes in code
+Use only if major changes in code
 
 npm run deploy
 ```
